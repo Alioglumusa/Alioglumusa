@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Musa</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<img align="right" alt "Coding" width="400" src="https://dribbble.com/shots/6139167-Avento-marketing/attachments/11278854?mode=media"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alioglumusa&label=Profile%20views&color=0e75b6&style=flat" alt="alioglumusa" /> </p>
 - 🔭 I’m currently working on **React**<br />
 - 🌱 I’m currently learning **React.js**<br />
