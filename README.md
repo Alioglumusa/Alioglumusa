@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **React,JavaScript,CSS3,HTML5**
+- 💬 Ask me about **React, JavaScript ,CSS3, HTML5**
 
 - 📫 How to reach me **alioglumusa@icloud.com**
 
