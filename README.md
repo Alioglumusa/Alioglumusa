@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Musa</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-
+<img align="rgiht" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alioglumusa&label=Profile%20views&color=0e75b6&style=flat" alt="alioglumusa" /> </p>
 
 - 🔭 I’m currently working on **React**
