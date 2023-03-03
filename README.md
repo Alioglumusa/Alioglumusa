@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/alioglumusa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alioglumusa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alioglumusa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alioglumusa" height="30" width="40" /></a>
+<a href="https://codepen.io/alioglumusa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alioglumusa" height="30" width="40" /></a>
 <a href="https://codesandbox.com/alioglumusa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="alioglumusa" height="30" width="40" /></a>
 <a href="https://medium.com/@alioglumusa34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="alioglumusa" height="30" width="40" /></a>
 <a href="https://discord.gg/MUSA#0859" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MUSA#0859" height="30" width="40" /></a>
